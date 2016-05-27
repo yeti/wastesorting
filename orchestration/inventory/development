@@ -1,0 +1,8 @@
+[all:vars]
+env=development
+
+[appservers]
+whatbin.yetisandbox.com
+
+[dbservers]
+198.61.174.126
